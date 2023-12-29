@@ -1,0 +1,19 @@
+body{
+    background-image: url(fundo-de-papel-de-parede-colorido-embacado-artistico_58702-8287.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container {
+    margin-top: 8%;
+     text-align: center;
+    
+  }
+  .container p {
+    font-family: Arial, sans-serif;
+    margin-top: 1px;
+    top: 145px;
+    right: 20px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    
+  }
